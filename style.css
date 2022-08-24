@@ -1,0 +1,35 @@
+.s{
+    float: inline-end;
+    width: 400px;
+    height: 400px;
+    margin-left: 450px;
+    display: inline;
+}
+.b{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    
+}
+h1{
+    color:rgb(241, 237, 245);
+}
+table, th, td {
+    text-align: center;
+    border: 5px solid rgb(59, 3, 97);
+    border-radius: 10px;
+    border-spacing: 20px;
+    
+
+  }
+  table{
+    
+    float: inline-start;
+    margin-left: 330px;
+    margin-bottom: 100px;
+    
+  }
+  .clean-both{
+    clear: both;
+  }
